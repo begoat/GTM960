@@ -4,6 +4,8 @@ sudo apt-add-repository ppa:graphics-drivers/ppa
 sudo apt-get update                                                                                                                                                                                                                  
 sudo apt-get install nvidia-364 nvidia-prime
 
+software and updates
+
 nvidia-xconfig                                                                             
 nvidia-settings                                                                            
 
